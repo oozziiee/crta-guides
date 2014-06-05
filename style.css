@@ -1,0 +1,62 @@
+body {
+	background-image:url("pictures/background.jpg");
+	color: #ffffff;
+	text-align: center;
+	font-family: 'Pompiere', cursive;
+}
+
+img {
+	display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+nav li{
+	border: 1px solid yellow;
+	list-style: none;
+	width: 8em;
+	height: 5em;
+	margin-top:1em;
+	text-align: center;
+	font-size: 120%;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+}
+
+a {
+	color: #ffffff;
+	text-decoration:none;
+}
+a:hover {
+	font-style: italic;
+}
+
+/* HÄR ÄR ALLA ID */
+#indexInfo {
+	border: 1px solid yellow;
+	width: 80em;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* HÄR ÄR ALLA DIV */
+
+.leftNav {
+	width: 20em;
+	float: left;
+	margin-top: -14em;
+	margin-left: 20em;
+}
+.rightNav {
+	width: 20em;
+	float: right;
+	margin-top: -14em;
+	margin-right: 20em;
+}
+
+.classInfo {
+	border: 1px solid yellow;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60em;
+}
