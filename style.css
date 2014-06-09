@@ -144,9 +144,9 @@ tbody td {
 	padding: 5px 20px 13px 20px;
 	border-radius: 2px;
 	background: #fff;
-	background: -moz-linear-gradient(#fff, #999);
-	background: -webkit-linear-gradient(#fff, #999);
-	background: -o-linear-gradient(#fff, #999);
+	background: -moz-linear-gradient(#2F4337, #1A2A20);
+	background: -webkit-linear-gradient(#2F4337, #1A2A20);
+	background: -o-linear-gradient(#2F4337, #1A2A20);
 }
 
 .close {
@@ -168,4 +168,4 @@ tbody td {
 	box-shadow: 1px 1px 3px #000;
 }
 
-.close:hover { background: #00d9ff; }
+.close:hover { background: #1A2A20; }
